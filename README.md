@@ -12,7 +12,9 @@
   <a href="https://www.linkedin.com/in/umar-aazim-51447b284/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=umaraazim&label=Profile%20views&color=8b5cf6&style=for-the-badge" />
+  
 </div>
 
 ---
