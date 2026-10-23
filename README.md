@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/umar-aazim-header.gif" width="100%" alt="Umar Aazim — neon pixel-art coding room" />
+  <img src="https://github.com/umaraazim/umaraazim/blob/main/header-aaz.gif" width="100%" alt="Umar Aazim — neon pixel-art coding room" />
 
   <h1>Hey, I'm Umar Aazim 👋</h1>
 
